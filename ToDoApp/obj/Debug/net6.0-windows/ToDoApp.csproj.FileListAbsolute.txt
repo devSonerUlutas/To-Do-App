@@ -1,0 +1,16 @@
+D:\C#\ToDoApp\bin\Debug\net6.0-windows\ToDoApp.exe
+D:\C#\ToDoApp\bin\Debug\net6.0-windows\ToDoApp.deps.json
+D:\C#\ToDoApp\bin\Debug\net6.0-windows\ToDoApp.runtimeconfig.json
+D:\C#\ToDoApp\bin\Debug\net6.0-windows\ToDoApp.dll
+D:\C#\ToDoApp\bin\Debug\net6.0-windows\ToDoApp.pdb
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.Form1.resources
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.csproj.GenerateResource.cache
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.AssemblyInfoInputs.cache
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.AssemblyInfo.cs
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.csproj.CoreCompileInputs.cache
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.dll
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\refint\ToDoApp.dll
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.pdb
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ToDoApp.genruntimeconfig.cache
+D:\C#\ToDoApp\obj\Debug\net6.0-windows\ref\ToDoApp.dll
